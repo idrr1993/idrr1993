@@ -96,7 +96,7 @@
 
 ## 📫 Contact Me
 
--   <img src="https://github.com/idrr1993/idrr1993/blob/main/images/linkedin.png?raw=true" alt="LinkedIn" width="20"/> [LinkedIn](https://www.linkedin.com/in/idanraviv)
--   <img src="https://github.com/idrr1993/idrr1993/blob/main/images/email.png?raw=true" alt="Email" width="20"/> [idanraviv1993@gmail.com](mailto:idanraviv1993@gmail.com)
+-   <img src="https://github.com/idrr1993/idrr1993/blob/main/images/linkdinpic.png?raw=true" alt="LinkedIn" width="20"/> [LinkedIn](https://www.linkedin.com/in/idanraviv)
+-   <img src="https://github.com/idrr1993/idrr1993/blob/main/images/mailpic.png?raw=true" alt="Email" width="20"/> [idanraviv1993@gmail.com](mailto:idanraviv1993@gmail.com)
 
 ---
