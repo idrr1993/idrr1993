@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Idan Raviv  
-### DevOps Engineer | Kubernetes Specialist | Cloud Infrastructure & CI/CD Expert
+### DevOps & integration Engineer | Cloud Infrastructure & CI/CD Expert
 
 💡 Passionate DevOps engineer with hands-on experience in automation, CI/CD, cloud-native technologies, and mobile networks (4G/5G).  
 🔧 Skilled in building scalable pipelines and infrastructure using GitHub Actions, ArgoCD, Helm, Docker, Kubernetes, Terraform, and AWS.  
