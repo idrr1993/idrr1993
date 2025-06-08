@@ -38,52 +38,52 @@
 ## 🚀 Projects
 
 * **Comprehensive CI/CD Pipeline for Node.js Application**
-    * [cite_start]Designed and implemented a full CI/CD pipeline using GitHub Actions for continuous integration, ArgoCD for automated deployment, and Docker for containerization.
-    * [cite_start]Deployed to an AWS EKS cluster, with infrastructure provisioned and managed via Terraform, ensuring scalability and high availability. 
+    * Designed and implemented a full CI/CD pipeline using GitHub Actions for continuous integration, ArgoCD for automated deployment, and Docker for containerization.
+    * Deployed to an AWS EKS cluster, with infrastructure provisioned and managed via Terraform, ensuring scalability and high availability. 
     * [ci/cd project](https://github.com/idrr1993/Application)
 
 * **Uplink Fractional Frequency Reuse (UL FFR) Fetcher POC**
-    * [cite_start]Led the execution of a Proof of Concept (POC) for UL FFR fetcher, significantly reducing packet loss in network communications. 
+    * Led the execution of a Proof of Concept (POC) for UL FFR fetcher, significantly reducing packet loss in network communications. 
 
 * **Laboratory Setups Configuration (LXC & Kubernetes)**
-    * [cite_start]Configured advanced laboratory setups within Linux Container Environments (LXC) and Kubernetes. 
-    * [cite_start]Utilized various tools to optimize workflow and efficiency in development testing scenarios. 
+    * Configured advanced laboratory setups within Linux Container Environments (LXC) and Kubernetes. 
+    * Utilized various tools to optimize workflow and efficiency in development testing scenarios. 
 
 * **Physical & Data Link Layers Implementation (STM32 & Nucleo)**
-    * [cite_start]Implemented the physical and data link layers on STM32 and Nucleo microcontrollers. 
-    * [cite_start]Developed a multitasking and broadcasting program for ASCII movies. 
+    * Implemented the physical and data link layers on STM32 and Nucleo microcontrollers. 
+    * Developed a multitasking and broadcasting program for ASCII movies. 
 
 ---
 
 ## 💼 Work Experience
 
-* **Integration Software Engineer** | [cite_start]Parallel Wireless (2023–2024) 
-    * [cite_start]Responsible for end-to-end integration and testing of major product components within mobile network technologies (4G and 5G networks). 
-    * [cite_start]Implemented automation using RAN Intelligent Controllers (RIC), xApps, and Bash scripting to optimize simulation and network testing, leading to improved efficiency and reliability. 
-    * [cite_start]Managed traffic steering fetcher for 3 Carrier Component. 
+* **Integration Software Engineer** | Parallel Wireless (2023–2024) 
+    * Responsible for end-to-end integration and testing of major product components within mobile network technologies (4G and 5G networks). 
+    * Implemented automation using RAN Intelligent Controllers (RIC), xApps, and Bash scripting to optimize simulation and network testing, leading to improved efficiency and reliability. 
+    * Managed traffic steering fetcher for 3 Carrier Component. 
 
-* **Software Engineering Intern Lab Technician** | [cite_start]Parallel Wireless (2021–2023) 
-    * [cite_start]Configured laboratory setups in Linux Container Environments (LXC) and Kubernetes, utilizing various tools to optimize workflow and efficiency in development testing scenarios. 
-    * [cite_start]Led the execution of a POC for Uplink Fractional Frequency Reuse (UL FFR) fetcher aimed at reducing packet loss in network communications. 
+* **Software Engineering Intern Lab Technician** | Parallel Wireless (2021–2023) 
+    * Configured laboratory setups in Linux Container Environments (LXC) and Kubernetes, utilizing various tools to optimize workflow and efficiency in development testing scenarios. 
+    * Led the execution of a POC for Uplink Fractional Frequency Reuse (UL FFR) fetcher aimed at reducing packet loss in network communications. 
 
 ---
 
 ## 🎖️ Military Service
 
-* [cite_start]**Intelligence Forces, Division 162** (2011–2014) 
-    * [cite_start]Led rapid intelligence processing and decision-making in high-pressure environments. 
-    * [cite_start]Developed reports, presentations, and insights for upper-level officers. 
-    * [cite_start]Trained new soldiers on intelligence analysis techniques. 
+* **Intelligence Forces, Division 162** (2011–2014) 
+    * Led rapid intelligence processing and decision-making in high-pressure environments. 
+    * Developed reports, presentations, and insights for upper-level officers. 
+    * Trained new soldiers on intelligence analysis techniques. 
 
 ---
 
 ## 🎓 Education & Certifications
 
-* [cite_start]**B.Sc. in Electrical Engineering** – Holon Institute of Technology (HIT) (2020–2023) 
+* **B.Sc. in Electrical Engineering** – Holon Institute of Technology (HIT) (2020–2023) 
     * *Focus on Communications and Digital Signal Processing (DSP)*
-* [cite_start]**Advanced DevOps Training** – Develeap (2024–2025) 
-* [cite_start]**"DevOps Beginners to Advanced with Projects" course** – Udemy (2024) 
-* [cite_start]**"Machine Learning" course** – Stanford University (Coursera) (2022) 
+* **Advanced DevOps Training** – Develeap (2024–2025) 
+* **"DevOps Beginners to Advanced with Projects" course** – Udemy (2024) 
+* **"Machine Learning" course** – Stanford University (Coursera) (2022) 
 
 ---
 
